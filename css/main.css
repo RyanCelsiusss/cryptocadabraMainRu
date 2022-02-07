@@ -284,6 +284,12 @@ body {
   font-weight: bold;
 }
 
+.text__content__cashback {
+  text-transform: uppercase;
+  color: hsl(80deg 100% 51%);
+  text-decoration: underline;
+}
+
 /* Footer */
 
 .footer {
